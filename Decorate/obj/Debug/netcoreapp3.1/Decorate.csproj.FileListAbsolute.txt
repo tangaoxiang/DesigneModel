@@ -1,0 +1,12 @@
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/bin/Debug/netcoreapp3.1/Decorate.deps.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/bin/Debug/netcoreapp3.1/Decorate.runtimeconfig.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/bin/Debug/netcoreapp3.1/Decorate.runtimeconfig.dev.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/bin/Debug/netcoreapp3.1/Decorate.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/bin/Debug/netcoreapp3.1/Decorate.pdb
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/obj/Debug/netcoreapp3.1/Decorate.csprojAssemblyReference.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/obj/Debug/netcoreapp3.1/Decorate.csproj.CoreCompileInputs.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/obj/Debug/netcoreapp3.1/Decorate.AssemblyInfoInputs.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/obj/Debug/netcoreapp3.1/Decorate.AssemblyInfo.cs
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/obj/Debug/netcoreapp3.1/Decorate.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/obj/Debug/netcoreapp3.1/Decorate.pdb
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Decorate/obj/Debug/netcoreapp3.1/Decorate.genruntimeconfig.cache

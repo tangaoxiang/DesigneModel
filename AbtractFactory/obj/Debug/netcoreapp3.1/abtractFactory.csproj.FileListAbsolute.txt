@@ -1,0 +1,12 @@
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/abtractFactory.deps.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/abtractFactory.runtimeconfig.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/abtractFactory.runtimeconfig.dev.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/abtractFactory.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/abtractFactory.pdb
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.csprojAssemblyReference.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.csproj.CoreCompileInputs.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.AssemblyInfoInputs.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.AssemblyInfo.cs
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.pdb
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.genruntimeconfig.cache
