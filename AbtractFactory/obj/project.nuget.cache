@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "phIq4PKQe6u/PdPHJMq9ZzCia95YHd+bpfN7mzqBzXGF4XdeFDd8g/Nz4+iwrkA0r94Z2Ac1QHv79thXvJ3A8A==",
+  "dgSpecHash": "KO8Inu4DY956JyNw5aidvEfi5FWgR2x9PPBT/0H04yhlEbTJRb7QA9udsBt3kqL6ZMPU+LS7Ftp/bbi5uubaLA==",
   "success": true,
-  "projectFilePath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj",
+  "expectedPackageFiles": [
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration/3.1.5/microsoft.extensions.configuration.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.5/microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration.binder/3.1.5/microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration.environmentvariables/3.1.5/microsoft.extensions.configuration.environmentvariables.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.5/microsoft.extensions.configuration.fileextensions.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration.json/3.1.5/microsoft.extensions.configuration.json.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.5/microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.5/microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.5/microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
+    "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.primitives/3.1.5/microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+  ],
   "logs": []
 }

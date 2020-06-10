@@ -10,3 +10,14 @@
 /Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.dll
 /Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.pdb
 /Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/abtractFactory.genruntimeconfig.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/Debug/netcoreapp3.1/AbtractFactory.csproj.CopyComplete
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll

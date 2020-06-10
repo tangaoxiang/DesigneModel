@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj": {}
+    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj": {}
   },
   "projects": {
-    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj": {
+    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj",
-        "projectName": "abtractFactory",
-        "projectPath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj",
+        "projectUniqueName": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj",
+        "projectName": "AbtractFactory",
+        "projectPath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj",
         "packagesPath": "/Users/tangyaoxiang/.nuget/packages/",
         "outputPath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/",
         "projectStyle": "PackageReference",
@@ -35,6 +35,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

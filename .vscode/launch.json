@@ -9,11 +9,12 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Decorate/bin/Debug/netcoreapp3.1/Decorate.dll",
+            "program": "${workspaceFolder}/AbtractFactory/bin/Debug/netcoreapp3.1/abtractFactory.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+           // "db":"sqlserver"
         },
         {
             "name": ".NET Core Attach",
