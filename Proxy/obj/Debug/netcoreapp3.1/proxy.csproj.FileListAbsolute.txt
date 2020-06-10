@@ -1,0 +1,12 @@
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/bin/Debug/netcoreapp3.1/proxy.deps.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/bin/Debug/netcoreapp3.1/proxy.runtimeconfig.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/bin/Debug/netcoreapp3.1/proxy.runtimeconfig.dev.json
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/bin/Debug/netcoreapp3.1/proxy.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/bin/Debug/netcoreapp3.1/proxy.pdb
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/obj/Debug/netcoreapp3.1/proxy.csprojAssemblyReference.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/obj/Debug/netcoreapp3.1/proxy.csproj.CoreCompileInputs.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/obj/Debug/netcoreapp3.1/proxy.AssemblyInfoInputs.cache
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/obj/Debug/netcoreapp3.1/proxy.AssemblyInfo.cs
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/obj/Debug/netcoreapp3.1/proxy.dll
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/obj/Debug/netcoreapp3.1/proxy.pdb
+/Users/tangyaoxiang/Documents/Project/DesigneModel/Proxy/obj/Debug/netcoreapp3.1/proxy.genruntimeconfig.cache
