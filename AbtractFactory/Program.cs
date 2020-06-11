@@ -37,21 +37,22 @@ namespace AbtractFactory {
         /// <summary>
         /// 暂时写死类型
         /// </summary>
-        static string className = assemblyName + "." +"Access";// config.GetSection ("db:dbName").Value;
+        static string className = assemblyName + "." + "SqlServer"; // config.GetSection ("db:dbName").Value;
         /// <summary>
         /// 获取程序集根目录
         /// </summary>
         /// <returns></returns>
         static string binPath = Path.GetDirectoryName (Assembly.GetEntryAssembly ().Location);
         public static IUser CreateUser () {
-            Assembly ass = Assembly.Load (new AssemblyName (assemblyName));
-            Type type = ass.GetType (className + "User");
-            return (IUser) Activator.CreateInstance (type);
+            return (IUser) CreateCommon ("User");
         }
         public static IDepartment CreateDepartment () {
+            return (IDepartment) CreateCommon ("Department");
+        }
+        static IBase CreateCommon (string objName) {
             Assembly ass = Assembly.Load (new AssemblyName (assemblyName));
-            Type type = ass.GetType (className + "Department");
-            return (IDepartment) Activator.CreateInstance (type);
+            Type type = ass.GetType (className + objName);
+            return (IBase) Activator.CreateInstance (type);
         }
     }
 
@@ -60,11 +61,14 @@ namespace AbtractFactory {
         IUser CreateUser ();
         IDepartment CreateDepartment ();
     }
-    public interface IDepartment {
+
+    public interface IBase {}
+
+    public interface IDepartment : IBase {
         void Insert (Department department);
         Department GetDepartment (int id);
     }
-    public interface IUser {
+    public interface IUser : IBase {
         void Insert (Users user);
         Users GetUsers (int id);
     }
