@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KO8Inu4DY956JyNw5aidvEfi5FWgR2x9PPBT/0H04yhlEbTJRb7QA9udsBt3kqL6ZMPU+LS7Ftp/bbi5uubaLA==",
+  "dgSpecHash": "lWj0BpageGDzfXVJyytzvCRjPYLDFAF8XmbbcEncYL/J5Ze8IrPYbDbVLrFBr9OZa4n/fHIljor4WSHC6jcN4w==",
   "success": true,
-  "projectFilePath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj",
+  "projectFilePath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj",
   "expectedPackageFiles": [
     "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration/3.1.5/microsoft.extensions.configuration.3.1.5.nupkg.sha512",
     "/Users/tangyaoxiang/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.5/microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",

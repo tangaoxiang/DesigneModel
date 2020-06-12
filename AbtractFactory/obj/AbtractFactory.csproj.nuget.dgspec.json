@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj": {}
+    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj": {}
   },
   "projects": {
-    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj": {
+    "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj",
-        "projectName": "AbtractFactory",
-        "projectPath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/AbtractFactory.csproj",
+        "projectUniqueName": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj",
+        "projectName": "abtractFactory",
+        "projectPath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/abtractFactory.csproj",
         "packagesPath": "/Users/tangyaoxiang/.nuget/packages/",
         "outputPath": "/Users/tangyaoxiang/Documents/Project/DesigneModel/AbtractFactory/obj/",
         "projectStyle": "PackageReference",
