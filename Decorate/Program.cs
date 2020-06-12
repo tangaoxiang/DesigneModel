@@ -1,6 +1,8 @@
 ﻿using System;
 /// <summary>
 /// 装饰模式
+/// 动态地给一个对象添加一些额外的职能
+/// 就增加功能来说，比生成子类更为灵活
 /// </summary>
 namespace Decorate {
     class Program {
