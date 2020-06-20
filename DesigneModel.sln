@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{254D2B70-BEAC-4731-90C2-4205B8441716}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{AA5E236E-131F-4CAB-813D-D53EC3C110B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,5 +200,17 @@ Global
 		{254D2B70-BEAC-4731-90C2-4205B8441716}.Release|x64.Build.0 = Release|Any CPU
 		{254D2B70-BEAC-4731-90C2-4205B8441716}.Release|x86.ActiveCfg = Release|Any CPU
 		{254D2B70-BEAC-4731-90C2-4205B8441716}.Release|x86.Build.0 = Release|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Debug|x64.Build.0 = Debug|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Debug|x86.Build.0 = Debug|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Release|x64.ActiveCfg = Release|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Release|x64.Build.0 = Release|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA5E236E-131F-4CAB-813D-D53EC3C110B0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
