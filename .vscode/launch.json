@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/AbtractFactory/bin/Debug/netcoreapp3.1/abtractFactory.dll",
+            "program": "${workspaceFolder}/Composite/bin/Debug/netcoreapp3.1/Composite.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
