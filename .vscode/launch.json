@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Composite/bin/Debug/netcoreapp3.1/Composite.dll",
+            "program": "${workspaceFolder}/Bridge/bin/Debug/netcoreapp3.1/Bridge.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
