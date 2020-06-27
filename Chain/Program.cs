@@ -85,7 +85,7 @@ namespace Chain {
             if (request.Number <= 2 && request.RequestType == "请假") {
                 System.Console.WriteLine ($"{name}:{request.RequestContent} 数量{request.Number} 被批准");
             } else {
-                //如果上级不为空，将请求转给上级
+                //如果当前没有权限并且上级不为空，将请求转给上级
                 if (superior != null) {
                     superior.RequestApplication (request);
                 }

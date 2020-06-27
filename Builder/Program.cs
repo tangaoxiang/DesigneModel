@@ -19,7 +19,7 @@ namespace Builder {
             //获取执行后的产品
             Product p1 = b1.GetResult ();
             p1.Show ();
-            
+
             //构建产品二的部件
             d.CreatePart (b2);
             Product p2 = b2.GetResult ();
@@ -40,13 +40,10 @@ namespace Builder {
 
     class Product {
         IList<string> list = new List<string> ();
-        public void Add (string part) {
-            list.Add (part);
-        }
+        public void Add (string part) => list.Add (part);
         public void Show () {
-            foreach (string item in list) {
+            foreach (string item in list)
                 System.Console.WriteLine (item);
-            }
         }
     }
 
@@ -58,25 +55,19 @@ namespace Builder {
 
     class ProductA : Builder {
         Product product = new Product ();
-        public override void CreatePartA () {
-            product.Add ("part A");
-        }
+        public override void CreatePartA () => product.Add ("part A");
         public override void CreatePartB () {
             product.Add ("part B");
         }
-        public override Product GetResult () {
-            return product;
-        }
+        public override Product GetResult () { return product; }
+
     }
 
     class ProductB : Builder {
         Product product = new Product ();
-        public override void CreatePartA () {
-            product.Add ("part C");
-        }
-        public override void CreatePartB () {
-            product.Add ("part D");
-        }
+        public override void CreatePartA () => product.Add ("part C");
+        public override void CreatePartB () => product.Add ("part D");
+
         public override Product GetResult () {
             return product;
         }
